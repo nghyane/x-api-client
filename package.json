@@ -1,0 +1,48 @@
+{
+  "name": "@nghiahoang/x-api-client",
+  "version": "1.0.0",
+  "description": "Twitter/X API client using curl-impersonate for posting tweets with media. Written in TypeScript for Bun runtime.",
+  "type": "module",
+  "main": "./src/index.ts",
+  "module": "./src/index.ts",
+  "types": "./src/index.ts",
+  "exports": {
+    ".": {
+      "import": "./src/index.ts",
+      "types": "./src/index.ts"
+    }
+  },
+  "bin": {
+    "curl-impersonate-wrapper": "./bin/curl-impersonate/curl-impersonate-wrapper.sh"
+  },
+  "files": [
+    "src",
+    "bin",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "bun test",
+    "example": "bun examples/basic-usage.ts"
+  },
+  "keywords": [
+    "twitter",
+    "x",
+    "api",
+    "curl-impersonate",
+    "social-media",
+    "bun",
+    "typescript"
+  ],
+  "author": "Nghia Hoang",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "engines": {
+    "bun": ">=1.0.0"
+  }
+}
