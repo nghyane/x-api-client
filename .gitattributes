@@ -1,0 +1,9 @@
+# Exclude binary dependencies from language statistics
+bin/** linguist-vendored
+
+# Mark curl-impersonate binaries as vendored third-party code
+bin/curl-impersonate/** linguist-vendored
+
+# Ensure TypeScript is the primary language
+*.ts linguist-detectable=true
+*.js linguist-detectable=false
