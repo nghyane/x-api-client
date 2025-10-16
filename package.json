@@ -1,6 +1,6 @@
 {
   "name": "@nghyane/x-api-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Nghia Hoang",
   "main": "./src/index.ts",
   "module": "./src/index.ts",
