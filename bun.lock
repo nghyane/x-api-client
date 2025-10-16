@@ -5,6 +5,7 @@
       "name": "x-api-client",
       "devDependencies": {
         "@types/bun": "latest",
+        "@types/node": "latest",
       },
       "peerDependencies": {
         "typescript": "^5",

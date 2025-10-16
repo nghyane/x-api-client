@@ -1,0 +1,649 @@
+{
+  "data": {
+    "search_by_raw_query": {
+      "search_timeline": {
+        "timeline": {
+          "instructions": [
+            {
+              "type": "TimelineAddEntries",
+              "entries": [
+                {
+                  "entryId": "tweet-1978677437467635864",
+                  "sortIndex": "1978677442230878208",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1978677437467635864",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxMDU4NTkyNTE0MTU0NzQ1ODU2",
+                                "rest_id": "1058592514154745856",
+                                "affiliates_highlighted_label": {},
+                                "avatar": {
+                                  "image_url": "https://pbs.twimg.com/profile_images/1886586850485395457/g-0DhMkj_normal.jpg"
+                                },
+                                "core": {
+                                  "created_at": "Sat Nov 03 05:31:37 +0000 2018",
+                                  "name": "おはじきの分身",
+                                  "screen_name": "vp_dbl"
+                                },
+                                "dm_permissions": {
+                                  "can_dm": true,
+                                  "can_dm_on_xchat": false
+                                },
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "legacy": {
+                                  "default_profile": true,
+                                  "default_profile_image": false,
+                                  "description": "インターネットに住まうおはじきの妖精5歳児 暗号通貨 OW2 apex モンハン",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "twitch.tv/setsuko__ohazi…",
+                                          "expanded_url": "https://twitch.tv/setsuko__ohaziki",
+                                          "url": "https://t.co/FXNoS2LzDQ",
+                                          "indices": [
+                                            0,
+                                            23
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 51057,
+                                  "followers_count": 488,
+                                  "friends_count": 1265,
+                                  "has_custom_timelines": true,
+                                  "is_translator": false,
+                                  "listed_count": 13,
+                                  "media_count": 560,
+                                  "normal_followers_count": 488,
+                                  "pinned_tweet_ids_str": [
+                                    "1866100322789363990"
+                                  ],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058592514154745856/1693311153",
+                                  "profile_interstitial_type": "",
+                                  "statuses_count": 28321,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/FXNoS2LzDQ",
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                },
+                                "location": {
+                                  "location": ""
+                                },
+                                "media_permissions": {
+                                  "can_media_tag": false
+                                },
+                                "parody_commentary_fan_label": "None",
+                                "profile_image_shape": "Circle",
+                                "privacy": {
+                                  "protected": false
+                                },
+                                "relationship_perspectives": {
+                                  "following": false
+                                },
+                                "tipjar_settings": {
+                                  "is_enabled": true,
+                                  "bitcoin_handle": "1QK2B7sUAENmBmv5K9a255Ey5eZnKiwCTr"
+                                },
+                                "verification": {
+                                  "verified": false
+                                }
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "edit_control": {
+                            "edit_tweet_ids": [
+                              "1978677437467635864"
+                            ],
+                            "editable_until_msecs": "1760592037000",
+                            "is_edit_eligible": false,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": true,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                          "grok_translated_post_with_availability": {
+                            "is_available": false
+                          },
+                          "grok_analysis_button": true,
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Thu Oct 16 04:20:37 +0000 2025",
+                            "conversation_id_str": "1978635221827502281",
+                            "display_text_range": [
+                              15,
+                              67
+                            ],
+                            "entities": {
+                              "hashtags": [],
+                              "symbols": [],
+                              "timestamps": [],
+                              "urls": [],
+                              "user_mentions": [
+                                {
+                                  "id_str": "1544904660",
+                                  "name": "とむい",
+                                  "screen_name": "tomui_bitcoin",
+                                  "indices": [
+                                    0,
+                                    14
+                                  ]
+                                }
+                              ]
+                            },
+                            "favorite_count": 0,
+                            "favorited": false,
+                            "full_text": "@tomui_bitcoin 叩かれたんですか？！妬む暇あったら稼いだらいいのに😇\nとむいさん100億持ってる人の立ち振る舞いですよ🤤",
+                            "in_reply_to_screen_name": "tomui_bitcoin",
+                            "in_reply_to_status_id_str": "1978669513932452262",
+                            "in_reply_to_user_id_str": "1544904660",
+                            "is_quote_status": false,
+                            "lang": "ja",
+                            "quote_count": 0,
+                            "reply_count": 0,
+                            "retweet_count": 0,
+                            "retweeted": false,
+                            "user_id_str": "1058592514154745856",
+                            "id_str": "1978677437467635864"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 7,
+                            "endIndex": 14
+                          }
+                        ]
+                      }
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAAACgACSUXs+GmA/pALAAMAAAAHYml0Y29pbgoABW4gC/axwIVtCAAGAAAAEgoABzGw5NaCoUFUCgAIAAABmes/nTMAAAAAAA=="
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1978677433789272510",
+                  "sortIndex": "1978677442230878207",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1978677433789272510",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxOTUzMzY3OTU1NDUyMTE2OTk0",
+                                "rest_id": "1953367955452116994",
+                                "affiliates_highlighted_label": {},
+                                "avatar": {
+                                  "image_url": "https://pbs.twimg.com/profile_images/1953368806614810629/pNgTiSwn_normal.jpg"
+                                },
+                                "core": {
+                                  "created_at": "Thu Aug 07 08:10:02 +0000 2025",
+                                  "name": "Miss Tena",
+                                  "screen_name": "tena_miss30222"
+                                },
+                                "dm_permissions": {
+                                  "can_dm": false,
+                                  "can_dm_on_xchat": false
+                                },
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "legacy": {
+                                  "default_profile": true,
+                                  "default_profile_image": false,
+                                  "description": "Join & Get XAUUSD GOLD GBP EUR USD NAS100 US30 ALL Free Signal's\n👉👉👉\nhttps://t.co/BvOCsTjxoN\nBenefit from our signals with 100% guarante",
+                                  "entities": {
+                                    "description": {
+                                      "urls": [
+                                        {
+                                          "display_url": "t.me/+BlmNIPQTReZjN…",
+                                          "expanded_url": "https://t.me/+BlmNIPQTReZjNjZk",
+                                          "url": "https://t.co/BvOCsTjxoN",
+                                          "indices": [
+                                            69,
+                                            92
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "t.me/+BlmNIPQTReZjN…",
+                                          "expanded_url": "https://t.me/+BlmNIPQTReZjNjZk",
+                                          "url": "https://t.co/BvOCsTjxoN",
+                                          "indices": [
+                                            0,
+                                            23
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 5343,
+                                  "followers_count": 19,
+                                  "friends_count": 181,
+                                  "has_custom_timelines": false,
+                                  "is_translator": false,
+                                  "listed_count": 0,
+                                  "media_count": 1785,
+                                  "normal_followers_count": 19,
+                                  "pinned_tweet_ids_str": [],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1953367955452116994/1754554390",
+                                  "profile_interstitial_type": "",
+                                  "statuses_count": 7042,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/BvOCsTjxoN",
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                },
+                                "location": {
+                                  "location": ""
+                                },
+                                "media_permissions": {
+                                  "can_media_tag": true
+                                },
+                                "parody_commentary_fan_label": "None",
+                                "profile_image_shape": "Circle",
+                                "privacy": {
+                                  "protected": false
+                                },
+                                "relationship_perspectives": {
+                                  "following": false
+                                },
+                                "tipjar_settings": {},
+                                "verification": {
+                                  "verified": false
+                                }
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "edit_control": {
+                            "edit_tweet_ids": [
+                              "1978677433789272510"
+                            ],
+                            "editable_until_msecs": "1760592036000",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                          "grok_translated_post_with_availability": {
+                            "is_available": false
+                          },
+                          "grok_analysis_button": true,
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Thu Oct 16 04:20:36 +0000 2025",
+                            "conversation_id_str": "1978677433789272510",
+                            "display_text_range": [
+                              0,
+                              178
+                            ],
+                            "entities": {
+                              "hashtags": [
+                                {
+                                  "indices": [
+                                    124,
+                                    131
+                                  ],
+                                  "text": "BTCUSD"
+                                },
+                                {
+                                  "indices": [
+                                    133,
+                                    140
+                                  ],
+                                  "text": "Crypto"
+                                },
+                                {
+                                  "indices": [
+                                    141,
+                                    149
+                                  ],
+                                  "text": "Bitcoin"
+                                },
+                                {
+                                  "indices": [
+                                    150,
+                                    154
+                                  ],
+                                  "text": "BTC"
+                                },
+                                {
+                                  "indices": [
+                                    156,
+                                    164
+                                  ],
+                                  "text": "account"
+                                },
+                                {
+                                  "indices": [
+                                    165,
+                                    172
+                                  ],
+                                  "text": "proper"
+                                },
+                                {
+                                  "indices": [
+                                    173,
+                                    178
+                                  ],
+                                  "text": "Lots"
+                                }
+                              ],
+                              "media": [
+                                {
+                                  "display_url": "pic.x.com/Qf3a95tSEx",
+                                  "expanded_url": "https://x.com/tena_miss30222/status/1978677433789272510/photo/1",
+                                  "id_str": "1978677430966448128",
+                                  "indices": [
+                                    179,
+                                    202
+                                  ],
+                                  "media_key": "3_1978677430966448128",
+                                  "media_url_https": "https://pbs.twimg.com/media/G3Wso9XWcAAfyAW.jpg",
+                                  "type": "photo",
+                                  "url": "https://t.co/Qf3a95tSEx",
+                                  "ext_media_availability": {
+                                    "status": "Available"
+                                  },
+                                  "features": {
+                                    "large": {
+                                      "faces": []
+                                    },
+                                    "medium": {
+                                      "faces": []
+                                    },
+                                    "small": {
+                                      "faces": []
+                                    },
+                                    "orig": {
+                                      "faces": []
+                                    }
+                                  },
+                                  "sizes": {
+                                    "large": {
+                                      "h": 1280,
+                                      "w": 576,
+                                      "resize": "fit"
+                                    },
+                                    "medium": {
+                                      "h": 1200,
+                                      "w": 540,
+                                      "resize": "fit"
+                                    },
+                                    "small": {
+                                      "h": 680,
+                                      "w": 306,
+                                      "resize": "fit"
+                                    },
+                                    "thumb": {
+                                      "h": 150,
+                                      "w": 150,
+                                      "resize": "crop"
+                                    }
+                                  },
+                                  "original_info": {
+                                    "height": 1280,
+                                    "width": 576,
+                                    "focus_rects": [
+                                      {
+                                        "x": 0,
+                                        "y": 255,
+                                        "w": 576,
+                                        "h": 323
+                                      },
+                                      {
+                                        "x": 0,
+                                        "y": 128,
+                                        "w": 576,
+                                        "h": 576
+                                      },
+                                      {
+                                        "x": 0,
+                                        "y": 88,
+                                        "w": 576,
+                                        "h": 657
+                                      },
+                                      {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 576,
+                                        "h": 1152
+                                      },
+                                      {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 576,
+                                        "h": 1280
+                                      }
+                                    ]
+                                  },
+                                  "media_results": {
+                                    "result": {
+                                      "media_key": "3_1978677430966448128"
+                                    }
+                                  }
+                                }
+                              ],
+                              "symbols": [],
+                              "timestamps": [],
+                              "urls": [
+                                {
+                                  "display_url": "t.me/+JXBimkUGvlk3Y…",
+                                  "expanded_url": "http://t.me/+JXBimkUGvlk3YzNk",
+                                  "url": "https://t.co/dI4zQLKIJ9",
+                                  "indices": [
+                                    39,
+                                    62
+                                  ]
+                                }
+                              ],
+                              "user_mentions": []
+                            },
+                            "extended_entities": {
+                              "media": [
+                                {
+                                  "display_url": "pic.x.com/Qf3a95tSEx",
+                                  "expanded_url": "https://x.com/tena_miss30222/status/1978677433789272510/photo/1",
+                                  "id_str": "1978677430966448128",
+                                  "indices": [
+                                    179,
+                                    202
+                                  ],
+                                  "media_key": "3_1978677430966448128",
+                                  "media_url_https": "https://pbs.twimg.com/media/G3Wso9XWcAAfyAW.jpg",
+                                  "type": "photo",
+                                  "url": "https://t.co/Qf3a95tSEx",
+                                  "ext_media_availability": {
+                                    "status": "Available"
+                                  },
+                                  "features": {
+                                    "large": {
+                                      "faces": []
+                                    },
+                                    "medium": {
+                                      "faces": []
+                                    },
+                                    "small": {
+                                      "faces": []
+                                    },
+                                    "orig": {
+                                      "faces": []
+                                    }
+                                  },
+                                  "sizes": {
+                                    "large": {
+                                      "h": 1280,
+                                      "w": 576,
+                                      "resize": "fit"
+                                    },
+                                    "medium": {
+                                      "h": 1200,
+                                      "w": 540,
+                                      "resize": "fit"
+                                    },
+                                    "small": {
+                                      "h": 680,
+                                      "w": 306,
+                                      "resize": "fit"
+                                    },
+                                    "thumb": {
+                                      "h": 150,
+                                      "w": 150,
+                                      "resize": "crop"
+                                    }
+                                  },
+                                  "original_info": {
+                                    "height": 1280,
+                                    "width": 576,
+                                    "focus_rects": [
+                                      {
+                                        "x": 0,
+                                        "y": 255,
+                                        "w": 576,
+                                        "h": 323
+                                      },
+                                      {
+                                        "x": 0,
+                                        "y": 128,
+                                        "w": 576,
+                                        "h": 576
+                                      },
+                                      {
+                                        "x": 0,
+                                        "y": 88,
+                                        "w": 576,
+                                        "h": 657
+                                      },
+                                      {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 576,
+                                        "h": 1152
+                                      },
+                                      {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 576,
+                                        "h": 1280
+                                      }
+                                    ]
+                                  },
+                                  "media_results": {
+                                    "result": {
+                                      "media_key": "3_1978677430966448128"
+                                    }
+                                  }
+                                }
+                              ]
+                            },
+                            "favorite_count": 0,
+                            "favorited": false,
+                            "full_text": "🚨 FREE BTC (SIGNAL)\nTRADING SIGNALS! 🚨\nhttps://t.co/dI4zQLKIJ9\n\n🔥 95% Accuracy Rate  \n📈 3–6 Profitable Signals Every Day  \n\n#BTCUSD \n#Crypto\n#Bitcoin\n#BTC💯\n#account #proper #Lots https://t.co/Qf3a95tSEx",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "possibly_sensitive": false,
+                            "possibly_sensitive_editable": true,
+                            "quote_count": 0,
+                            "reply_count": 0,
+                            "retweet_count": 0,
+                            "retweeted": false,
+                            "user_id_str": "1953367955452116994",
+                            "id_str": "1978677433789272510"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "highlights": {
+                        "textHighlights": [
+                          {
+                            "startIndex": 142,
+                            "endIndex": 149
+                          }
+                        ]
+                      }
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAAACgACSUXs+GmA/pALAAMAAAAHYml0Y29pbgoABW4gC/axwIVtCAAGAAAAEgoABzGw5NaCoUFUCgAIAAABmes/nTMAAAAAAA=="
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "cursor-top-9223372036854775807",
+                  "sortIndex": "9223372036854775807",
+                  "content": {
+                    "entryType": "TimelineTimelineCursor",
+                    "__typename": "TimelineTimelineCursor",
+                    "value": "DAADDAABCgABG3WspVlWsJgKAAIbdaykfhdRvgAIAAIAAAABCAADAAAAAAgABAAAAAAKAAUbdaymdUAnEAoABht1rKZ1P9jwAAA",
+                    "cursorType": "Top"
+                  }
+                },
+                {
+                  "entryId": "cursor-bottom-0",
+                  "sortIndex": "0",
+                  "content": {
+                    "entryType": "TimelineTimelineCursor",
+                    "__typename": "TimelineTimelineCursor",
+                    "value": "DAADDAABCgABG3WspVlWsJgKAAIbdaykfhdRvgAIAAIAAAACCAADAAAAAAgABAAAAAAKAAUbdaymdUAnEAoABht1rKZ1P9jwAAA",
+                    "cursorType": "Bottom"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

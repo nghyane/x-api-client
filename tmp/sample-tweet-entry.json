@@ -1,0 +1,183 @@
+{
+  "entryId": "tweet-1978677437467635864",
+  "sortIndex": "1978677442230878208",
+  "content": {
+    "entryType": "TimelineTimelineItem",
+    "__typename": "TimelineTimelineItem",
+    "itemContent": {
+      "itemType": "TimelineTweet",
+      "__typename": "TimelineTweet",
+      "tweet_results": {
+        "result": {
+          "__typename": "Tweet",
+          "rest_id": "1978677437467635864",
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoxMDU4NTkyNTE0MTU0NzQ1ODU2",
+                "rest_id": "1058592514154745856",
+                "affiliates_highlighted_label": {},
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1886586850485395457/g-0DhMkj_normal.jpg"
+                },
+                "core": {
+                  "created_at": "Sat Nov 03 05:31:37 +0000 2018",
+                  "name": "おはじきの分身",
+                  "screen_name": "vp_dbl"
+                },
+                "dm_permissions": {
+                  "can_dm": true,
+                  "can_dm_on_xchat": false
+                },
+                "has_graduated_access": true,
+                "is_blue_verified": false,
+                "legacy": {
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "インターネットに住まうおはじきの妖精5歳児 暗号通貨 OW2 apex モンハン",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "twitch.tv/setsuko__ohazi…",
+                          "expanded_url": "https://twitch.tv/setsuko__ohaziki",
+                          "url": "https://t.co/FXNoS2LzDQ",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 51057,
+                  "followers_count": 488,
+                  "friends_count": 1265,
+                  "has_custom_timelines": true,
+                  "is_translator": false,
+                  "listed_count": 13,
+                  "media_count": 560,
+                  "normal_followers_count": 488,
+                  "pinned_tweet_ids_str": [
+                    "1866100322789363990"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058592514154745856/1693311153",
+                  "profile_interstitial_type": "",
+                  "statuses_count": 28321,
+                  "translator_type": "none",
+                  "url": "https://t.co/FXNoS2LzDQ",
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "location": {
+                  "location": ""
+                },
+                "media_permissions": {
+                  "can_media_tag": false
+                },
+                "parody_commentary_fan_label": "None",
+                "profile_image_shape": "Circle",
+                "privacy": {
+                  "protected": false
+                },
+                "relationship_perspectives": {
+                  "following": false
+                },
+                "tipjar_settings": {
+                  "is_enabled": true,
+                  "bitcoin_handle": "1QK2B7sUAENmBmv5K9a255Ey5eZnKiwCTr"
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "unmention_data": {},
+          "edit_control": {
+            "edit_tweet_ids": [
+              "1978677437467635864"
+            ],
+            "editable_until_msecs": "1760592037000",
+            "is_edit_eligible": false,
+            "edits_remaining": "5"
+          },
+          "is_translatable": true,
+          "views": {
+            "state": "Enabled"
+          },
+          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+          "grok_translated_post_with_availability": {
+            "is_available": false
+          },
+          "grok_analysis_button": true,
+          "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Thu Oct 16 04:20:37 +0000 2025",
+            "conversation_id_str": "1978635221827502281",
+            "display_text_range": [
+              15,
+              67
+            ],
+            "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                {
+                  "id_str": "1544904660",
+                  "name": "とむい",
+                  "screen_name": "tomui_bitcoin",
+                  "indices": [
+                    0,
+                    14
+                  ]
+                }
+              ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "full_text": "@tomui_bitcoin 叩かれたんですか？！妬む暇あったら稼いだらいいのに😇\nとむいさん100億持ってる人の立ち振る舞いですよ🤤",
+            "in_reply_to_screen_name": "tomui_bitcoin",
+            "in_reply_to_status_id_str": "1978669513932452262",
+            "in_reply_to_user_id_str": "1544904660",
+            "is_quote_status": false,
+            "lang": "ja",
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "retweeted": false,
+            "user_id_str": "1058592514154745856",
+            "id_str": "1978677437467635864"
+          }
+        }
+      },
+      "tweetDisplayType": "Tweet",
+      "highlights": {
+        "textHighlights": [
+          {
+            "startIndex": 7,
+            "endIndex": 14
+          }
+        ]
+      }
+    },
+    "clientEventInfo": {
+      "component": "result",
+      "element": "tweet",
+      "details": {
+        "timelinesDetails": {
+          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAAACgACSUXs+GmA/pALAAMAAAAHYml0Y29pbgoABW4gC/axwIVtCAAGAAAAEgoABzGw5NaCoUFUCgAIAAABmes/nTMAAAAAAA=="
+        }
+      }
+    }
+  }
+}
