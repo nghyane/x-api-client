@@ -17,10 +17,15 @@
       "types": "./src/index.ts"
     }
   },
-  "bin": {
-    "curl-impersonate-wrapper": "./bin/curl-impersonate/curl-impersonate-wrapper.sh"
-  },
   "description": "Twitter/X API client using curl-impersonate for posting tweets with media. Written in TypeScript for Bun runtime.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nghiahoang/x-api-client.git"
+  },
+  "homepage": "https://github.com/nghiahoang/x-api-client#readme",
+  "bugs": {
+    "url": "https://github.com/nghiahoang/x-api-client/issues"
+  },
   "engines": {
     "bun": ">=1.0.0"
   },
